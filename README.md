@@ -1,16 +1,17 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 🫀
 
-<!--
-**mths09/mths09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Matheus Miranda
 
-Here are some ideas to get you started:
+- Atualmente, estou estudando na [Alura](https://www.alura.com.br)
+- Pretendo aprimorar meus conhecimentos de JavaScript e Programação
+- Estudante e Jovem Aprendiz
+- Pretendo utilizar esse espaço para me organizar e compartilhar meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Entre em contato comigo 📧
+matheusferenci0@gmail.com
+
+@_matth09
+
+![](https://media.tenor.com/ivbjDYV2AagAAAAM/lionel-messi-barca.gif)
+  
+
