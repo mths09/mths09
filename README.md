@@ -1,4 +1,4 @@
-<!--
+<img width="480" height="480" alt="BurgerEatingGIFbyRespective" src="https://github.com/user-attachments/assets/9d759ae3-0536-4f83-82c7-19dac9a3b84a" /><!--
   README DE PERFIL | MATHEUS FERENCI
   Estética: Navy / Black / White
 -->
@@ -34,7 +34,7 @@
 
 </div>
 
----
+
 
 ## `01` · Sobre mim
 
@@ -49,7 +49,7 @@ Gosto de entender como as aplicações funcionam, desenvolver soluções e evolu
 - **Foco:** Aprendizado contínuo e desenvolvimento de projetos
 - **Projeto em destaque:** HVAC Manutenções
 
----
+
 
 ## `02` · Stack tecnológica
 
@@ -72,7 +72,7 @@ Gosto de entender como as aplicações funcionam, desenvolver soluções e evolu
 
 </div>
 
----
+
 
 ## `03` · Projetos em destaque
 
@@ -86,6 +86,16 @@ Gosto de entender como as aplicações funcionam, desenvolver soluções e evolu
     />
   </a>
 
+  ### ❄️ HVAC Manutenções
+
+Projeto de desenvolvimento web voltado ao contexto de manutenção HVAC.
+
+**Acesse o repositório:**
+
+[github.com/mths09/projeto-hvac-manutencoes](https://github.com/mths09/projeto-hvac-manutencoes)
+
+---
+
   <a href="https://github.com/mths09/gestao-cursos-winforms">
     <img
       width="90%"
@@ -93,6 +103,16 @@ Gosto de entender como as aplicações funcionam, desenvolver soluções e evolu
       alt="Gestão de Cursos"
     />
   </a>
+
+  ### 📃 Gestão de Cursos
+
+Projeto de desenvolvimento desktop do tipo Windows Form voltado a realização de consultas SQL.
+
+**Acesse o repositório:**
+
+[github.com/mths09/projeto-hvac-manutencoes](https://github.com/mths09/gestao-cursos-winforms)
+
+---
 
   <a href="https://github.com/mths09/lanchonete-do-saber">
     <img
@@ -102,17 +122,15 @@ Gosto de entender como as aplicações funcionam, desenvolver soluções e evolu
     />
   </a>
 
-</div>
+  ### 🍔 Lanchonete do Saber 
 
-### HVAC Manutenções
-
-Projeto de desenvolvimento web voltado ao contexto de manutenção HVAC.
+Projeto de desenvolvimento desktop do tipo Windows Form voltado a simulação de um sistema de pedidos.
 
 **Acesse o repositório:**
 
-[github.com/mths09/projeto-hvac-manutencoes](https://github.com/mths09/projeto-hvac-manutencoes)
+[github.com/mths09/projeto-hvac-manutencoes](https://github.com/mths09/lanchonete-do-saber)
 
----
+</div>
 
 ## `04` · GitHub Analytics
 
@@ -183,8 +201,6 @@ Projeto de desenvolvimento web voltado ao contexto de manutenção HVAC.
   />
 
 </div>
-
-> A animação é gerada automaticamente pelo GitHub Actions. Configure o workflow abaixo para publicar o SVG na branch `output`.
 
 ---
 
