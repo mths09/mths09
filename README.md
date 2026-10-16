@@ -74,7 +74,7 @@ Gosto de entender como as aplicações funcionam, desenvolver soluções e evolu
 
 ---
 
-## `03` · Projeto em destaque
+## `03` · Projetos em destaque
 
 <div align="center">
 
@@ -83,6 +83,22 @@ Gosto de entender como as aplicações funcionam, desenvolver soluções e evolu
       width="90%"
       src="https://github-readme-stats.vercel.app/api/pin/?username=mths09&repo=projeto-hvac-manutencoes&theme=github_dark&hide_border=true&bg_color=050816&title_color=7AA2F7&icon_color=7AA2F7&text_color=E6EDF3"
       alt="Projeto HVAC Manutenções"
+    />
+  </a>
+
+  <a href="https://github.com/mths09/gestao-curso-winforms">
+    <img
+      width="90%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=mths09&repo=gestao-curso-winforms&theme=github_dark&hide_border=true&bg_color=050816&title_color=7AA2F7&icon_color=7AA2F7&text_color=E6EDF3"
+      alt="Gestão de Cursos"
+    />
+  </a>
+
+  <a href="https://github.com/mths09/lanchonete-do-saber">
+    <img
+      width="90%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=mths09&repo=lanchonete-do-saber&theme=github_dark&hide_border=true&bg_color=050816&title_color=7AA2F7&icon_color=7AA2F7&text_color=E6EDF3"
+      alt="Lanchonete do Saber"
     />
   </a>
 
