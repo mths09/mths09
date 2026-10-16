@@ -1,8 +1,3 @@
-<img width="480" height="480" alt="BurgerEatingGIFbyRespective" src="https://github.com/user-attachments/assets/9d759ae3-0536-4f83-82c7-19dac9a3b84a" /><!--
-  README DE PERFIL | MATHEUS FERENCI
-  Estética: Navy / Black / White
--->
-
 <!-- BANNER -->
 <div align="center">
   <img
