@@ -86,10 +86,10 @@ Gosto de entender como as aplicações funcionam, desenvolver soluções e evolu
     />
   </a>
 
-  <a href="https://github.com/mths09/gestao-curso-winforms">
+  <a href="https://github.com/mths09/gestao-cursos-winforms">
     <img
       width="90%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=mths09&repo=gestao-curso-winforms&theme=github_dark&hide_border=true&bg_color=050816&title_color=7AA2F7&icon_color=7AA2F7&text_color=E6EDF3"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=mths09&repo=gestao-cursos-winforms&theme=github_dark&hide_border=true&bg_color=050816&title_color=7AA2F7&icon_color=7AA2F7&text_color=E6EDF3"
       alt="Gestão de Cursos"
     />
   </a>
