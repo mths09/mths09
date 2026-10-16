@@ -209,9 +209,6 @@ Projeto de desenvolvimento desktop do tipo Windows Form voltado a simulação de
   <a href="https://www.linkedin.com/in/matheus-ferenci-miranda-leit%C3%A3o-a611b9374/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/_matth09/">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram">
-  </a>
 
 </div>
 
